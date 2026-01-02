@@ -1,6 +1,8 @@
 # AppInsights-Joomla
 Main development repository for Application Insights Joomla plugin.
 
+# This fork is archived. The application is not used anymore and is not updated or tested anymore.
+
 ## Contributors ##
   - <a href='https://github.com/fidmor89'>Fidel Esteban Morales Cifuentes</a>.
   - Juan Manuel Lopez Lucero
